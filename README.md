@@ -32,25 +32,34 @@ Duke kontrolluar korrelacionin e variablave tona MaxTemp dhe MinTemp, mund të s
 
 ![image](https://github.com/altinshabani/MachineLearningProject/assets/119792193/8b7c96ca-65ce-469c-aa16-29f8bb0c7801)
 
+Accuracy:
+
+![image](https://github.com/altinshabani/MachineLearningProject/assets/119792193/fcc472f3-832b-463c-b155-accb6bc791aa)
+
 -Decission Tree-
 
 ![image](https://github.com/altinshabani/MachineLearningProject/assets/119792193/77a5bb71-5716-413b-bf83-c4b60563a3f8)
-
-
-
--Random Forest-
-
-
 
 
 -KNN-
 
 ![image](https://github.com/altinshabani/MachineLearningProject/assets/119792193/6c65af3c-6115-4dcb-8614-0dc40ab7c710)
 
+Accuracy:
+
+![image](https://github.com/altinshabani/MachineLearningProject/assets/119792193/5a0b5dc1-a49c-4e4a-85c4-ebfff840cf80)
+
+
 
 -Logistic Regression-
 
 ![image](https://github.com/altinshabani/MachineLearningProject/assets/119792193/b6f7d164-20c4-44fc-9d34-308c4e3f7046)
+
+![image](https://github.com/altinshabani/MachineLearningProject/assets/119792193/b3b2ae1a-9ded-4352-8339-56305d73f482)
+
+
+Looking at our Data Analysis, we can see that the temperature of the previous day is a important variable to get our variable target, but also PrecipType and Summary.
+
 
 
 
